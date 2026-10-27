@@ -1,0 +1,2 @@
+# Syntecxhub_Rule_Based_Expert_System
+Assignments
